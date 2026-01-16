@@ -1,0 +1,1 @@
+2026-01-15T08:50:15.758856-05:00 vicky-VirtualBox sudo: pam_unix(sudo:auth): authentication failure; logname=vicky uid=1000 euid=0 tty=/dev/pts/0 ruser=vicky rhost=  user=vicky
