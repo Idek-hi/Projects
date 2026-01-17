@@ -1,4 +1,4 @@
-## Summary :)
+## Summary
 A failed sudo authentication attempt was detected during routine log review.
 
 ## Analysis
